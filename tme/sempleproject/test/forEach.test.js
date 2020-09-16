@@ -19,5 +19,5 @@ it("shuld sum an arry", () => {
   numbers.push(3);
 });
 it("before each", () => {
-  assert.strictEqual(numbers.length, 3);
+  assert.strictEqual(numbers.length, 4);
 });
